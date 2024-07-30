@@ -40,4 +40,5 @@ module.exports = {
     "gatsby-plugin-postcss",
     "gatsby-plugin-sass",
   ],
+  pathPrefix: "/musical-chainsaw",
 };
